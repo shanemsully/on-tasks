@@ -14,7 +14,7 @@ describe('JobUtils.WorkflowTool', function() {
     var graphDomain = 'testDomain';
     var graphInstanceId = '447bb68c-aaaf-4eef-9ed2-c839a72c505d';
     var graphOptions = { defaults: { foo: 'bar' } };
-    var proxy = "http://12.1.1.1:8080"
+    var proxy = "http://12.1.1.1:8080";
 
     var waterline = {
         graphdefinitions: {
